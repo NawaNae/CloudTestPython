@@ -1,0 +1,1 @@
+fun08=lambda x,y,z : x+y+zprint(fun08(1,4,5),fun08(2,3,6),fun08(3,1,2))
